@@ -8,7 +8,7 @@ The report documents:
 - Experiences from workshops, lectures, and events  
 
 ## File Structure  
-- [Full Report](./main-report.md)
+- [Main Report](./main-report.md)
   
 ## Purpose  
 This repository was created to organize and share the induction report in a structured and accessible format.  
