@@ -89,6 +89,6 @@ I am looking forward to making the most of my time here and applying the lessons
 ---
 
 ## Author  
-**Naman**  
-CSE, Batch of 2025  
+**Harnaman**  
+CSE Batch 
 Guru Nanak Dev Engineering College, Ludhiana  
