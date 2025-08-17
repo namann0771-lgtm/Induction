@@ -2,13 +2,15 @@
 
 ## Table of Contents  
 - [Day 1 – 30th July 2025](#day-1--30th-july-2025)  
-- [Day 2 – 31st July 2025](#day-2--31st-july-2025)  
-- [Day 3 – 1st August 2025](#day-3--1st-august-2025)  
-- [Day 4 – 2nd August 2025](#day-4--2nd-august-2025)  
-- [Day 5 – 3rd August 2025](#day-5--3rd-august-2025)  
-- [Day 6 – 4th August 2025](#day-6--4th-august-2025)  
-- [Day 7 – 5th August 2025](#day-7--5th-august-2025)  
-- [Final Reflection](#final-reflection)  
+- [Day 2 – 31st July 2025](#day-2)  
+- [Day 3 – 1st August 2025](#day-3)  
+- [Day 4 – 2nd August 2025](#day-4)  
+- [Day 5 – 3rd August 2025](#day-5)  
+- [Day 6 – 4th August 2025](#day-6)  
+- [Day 7 – 5th August 2025](#day-7)  
+- [Final Reflection](#final-reflection)
+- [Author](#author) 
+
 
 ## Day 1 – 30th July 2025  
 The first day at GNDEC started with *Path* and *Kirtan* at the College Gurudwara Sahib, which gave a peaceful start to the program.  
@@ -83,3 +85,10 @@ Overall, the induction program gave me a positive start to college life.
 It introduced me to the values, facilities, and opportunities at GNDEC while also helping me connect with teachers and fellow students.  
 The mix of lectures, activities, and orientation sessions made the experience engaging and motivating.  
 I am looking forward to making the most of my time here and applying the lessons learned during this program in my journey ahead.  
+
+---
+
+## Author  
+**Naman**  
+CSE, Batch of 2025  
+Guru Nanak Dev Engineering College, Ludhiana  
